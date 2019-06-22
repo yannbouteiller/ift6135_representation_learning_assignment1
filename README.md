@@ -3,10 +3,10 @@
 This repository contains our solutions to the practical part of Aaron Courville's Deep Learning first assignement - Winter 2019. 
 
 Team members:
-- Yann BOUTEILLER
-- Sanae LOTFI
-- Abderrahim KHALIFA
-- Amine BELLAHSEN
+- Yann Bouteiller
+- Sanae Lotfi
+- Abderrahim Khalifa
+- Amine Bellahsen
 
 
 The data for the problem one can be found in the following url:
