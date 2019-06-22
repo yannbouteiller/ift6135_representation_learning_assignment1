@@ -9,7 +9,7 @@ Team members:
 - Amine Bellahsen
 
 
-The data for the problem one can be found in the follwoing url:
+The data for the problem one can be found in the following url:
 
 https://drive.google.com/file/d/1D16AUrwuN4492JDXngHBpgF8uRQeZiDo/view?usp=sharing
 
